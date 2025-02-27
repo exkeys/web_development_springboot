@@ -1,4 +1,4 @@
-package me.ahngeunsu.springbootdeveloper.config;
+package me.parkgunwoo.springbootdeveloper.config;
 
 import lombok.RequiredArgsConstructor;
 import me.ahngeunsu.springbootdeveloper.service.UserDetailService;

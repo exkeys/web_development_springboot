@@ -1,4 +1,4 @@
-package me.ahngeunsu.springbootdeveloper.controller;
+package me.parkgunwoo.springbootdeveloper.controller;
 
 import lombok.RequiredArgsConstructor;
 import me.ahngeunsu.springbootdeveloper.domain.Article;
