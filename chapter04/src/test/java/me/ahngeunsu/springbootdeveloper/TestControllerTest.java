@@ -1,4 +1,4 @@
-package me.ahngeunsu.springbootdeveloper;
+package me.parkgunwoo.springbootdeveloper;
 /*
     Test 클래스를 만드는 방법
 

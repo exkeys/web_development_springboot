@@ -14,13 +14,13 @@ package springbootdeveloper.controller;
  */
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import me.ahngeunsu.springbootdeveloper.config.jwt.JwtFactory;
-import me.ahngeunsu.springbootdeveloper.config.jwt.JwtProperties;
-import me.ahngeunsu.springbootdeveloper.domain.RefreshToken;
-import me.ahngeunsu.springbootdeveloper.domain.User;
-import me.ahngeunsu.springbootdeveloper.dto.CreateAccessTokenRequest;
-import me.ahngeunsu.springbootdeveloper.repository.RefreshTokenRepository;
-import me.ahngeunsu.springbootdeveloper.repository.UserRepository;
+import me.parkgunwoo.springbootdeveloper.config.jwt.JwtFactory;
+import me.parkgunwoo.springbootdeveloper.config.jwt.JwtProperties;
+import me.parkgunwoo.springbootdeveloper.domain.RefreshToken;
+import me.parkgunwoo.springbootdeveloper.domain.User;
+import me.parkgunwoo.springbootdeveloper.dto.CreateAccessTokenRequest;
+import me.parkgunwoo.springbootdeveloper.repository.RefreshTokenRepository;
+import me.parkgunwoo.springbootdeveloper.repository.UserRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

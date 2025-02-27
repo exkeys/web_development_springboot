@@ -1,4 +1,4 @@
-package me.ahngeunsu.springbootdeveloper;
+package me.parkgunwoo.springbootdeveloper;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

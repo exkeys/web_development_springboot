@@ -1,4 +1,4 @@
-package me.ahngeunsu.springbootdeveloper.config.jwt;
+package me.parkgunwoo.springbootdeveloper.config.jwt;
 
 import io.jsonwebtoken.Header;
 import io.jsonwebtoken.Jwts;

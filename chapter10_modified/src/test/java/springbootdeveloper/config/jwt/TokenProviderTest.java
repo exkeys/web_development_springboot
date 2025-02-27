@@ -1,10 +1,10 @@
 package springbootdeveloper.config.jwt;
 
 import io.jsonwebtoken.Jwts;
-import me.ahngeunsu.springbootdeveloper.config.jwt.JwtProperties;
-import me.ahngeunsu.springbootdeveloper.config.jwt.TokenProvider;
-import me.ahngeunsu.springbootdeveloper.domain.User;
-import me.ahngeunsu.springbootdeveloper.repository.UserRepository;
+import me.parkgunwoo.springbootdeveloper.config.jwt.JwtProperties;
+import me.parkgunwoo.springbootdeveloper.config.jwt.TokenProvider;
+import me.parkgunwoo.springbootdeveloper.domain.User;
+import me.parkgunwoo.springbootdeveloper.repository.UserRepository;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

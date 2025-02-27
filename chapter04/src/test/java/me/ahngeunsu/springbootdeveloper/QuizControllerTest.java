@@ -1,4 +1,4 @@
-package me.ahngeunsu.springbootdeveloper;
+package me.parkgunwoo.springbootdeveloper;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.BeforeEach;
